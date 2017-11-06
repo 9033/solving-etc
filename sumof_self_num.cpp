@@ -2,7 +2,6 @@
 //1 이상이고 5000 보다 작은 모든 셀프 넘버들의 합을 구하라.
 
 #include <iostream>
-#include <cstdlib>
 
 int self[5001] ={0};
 
